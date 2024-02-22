@@ -1,0 +1,17 @@
+{
+    "name": "AGGIKU",
+    "short_name": "AGGIKU",
+    "start_url": "/index.php",
+    "background_color": "#8d6f40",
+    "description": "Aplikasi asuransi AGGIKU",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "logo.PNG",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
